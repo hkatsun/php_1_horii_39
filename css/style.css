@@ -1,0 +1,13 @@
+
+.col{
+    display:flex;
+    vertical-align: middle;
+    width:50%;
+    padding: 4px;
+}
+.form_parts{
+    box-sizing: border-box;
+    border: solid 1px #bfbfbf;
+    width: 70%;
+    padding: 8px;
+}
